@@ -42,6 +42,6 @@ http://your-ip:8080/securityRealm/user/admin/descriptorByName/org.jenkinsci.plug
 
 
 
-`/tmp/success`已成功创建：
+`/tmp/success`성공적으로 생성：
 
 
